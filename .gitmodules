@@ -1,0 +1,3 @@
+[submodule "TestAdapter/TestAdapter/sources/TestAdapterClient"]
+	path = TestAdapter/TestAdapter/sources/TestAdapterClient
+	url = https://github.com/wojzen/TestAdapterClient
